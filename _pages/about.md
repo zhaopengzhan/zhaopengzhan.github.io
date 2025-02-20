@@ -47,14 +47,14 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <p>
+
       [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution
       Historical Labels **(Highlight)**](https://arxiv.org/abs/2403.02746)
-    </p>
-    <p>
-      [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
+
+
+      new [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
       **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
-    </p>
+
     </div>
 </div>
 
