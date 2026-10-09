@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences (IGSNRR, CAS), and the University of Chinese Academy of Sciences (UCAS).
+I am a Ph.D. student at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences (IGSNRR, CAS), and the University of Chinese Academy of Sciences (UCAS), advised by Prof. [Jinwei Dong](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrzy/201703/t20170306_4755253.html). Previously, I conducted my master's research under the supervision of Prof. [Wei Cao](https://igsnrr.cas.cn/sourcedb/zw/zjrck/202008/t20200819_5660564.html).
 
 My research interests include deep learning for remote sensing, land-cover mapping, and large-scale Earth observation applications.
 
 Email: **zhaopengzhan24@mails.ucas.ac.cn**
 
-Google scholar: [**Pengzhan Zhao**](https://scholar.google.com/citations)
+Google scholar: [**Pengzhan Zhao**](https://scholar.google.com/citations?user=jw_TAEkAAAAJ)
 
 # 🔥 News
 
