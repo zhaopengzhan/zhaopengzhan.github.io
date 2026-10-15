@@ -58,22 +58,9 @@ Google scholar: [**Pengzhan Zhao**](https://scholar.google.com/citations?user=jw
 
 ## 🛠️ Open Source Software
 
-### [tilekit](https://github.com/zhaopengzhan/tilekit)
-
+**[tilekit](https://github.com/zhaopengzhan/tilekit)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/tilekit)](https://pypi.org/project/tilekit/) [![Total Downloads](https://api.pepy.tech/badge/tilekit)](https://pepy.tech/projects/tilekit) [![Monthly Downloads](https://api.pepy.tech/badge/tilekit/month)](https://pepy.tech/projects/tilekit)  
 A Python toolkit for downloading Jilin-1 satellite imagery tiles.
 
-[![PyPI](https://img.shields.io/pypi/v/tilekit)](https://pypi.org/project/tilekit/)
-[![Total Downloads](https://api.pepy.tech/badge/tilekit)](https://pepy.tech/projects/tilekit)
-[![Monthly Downloads](https://api.pepy.tech/badge/tilekit/month)](https://pepy.tech/projects/tilekit)
-
-`pip install tilekit`
-
-### [Parcelify](https://github.com/zhaopengzhan/Parcelify)
-
+**[Parcelify](https://github.com/zhaopengzhan/Parcelify)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/parcelify)](https://pypi.org/project/parcelify/) [![Total Downloads](https://api.pepy.tech/badge/parcelify)](https://pepy.tech/projects/parcelify) [![Monthly Downloads](https://api.pepy.tech/badge/parcelify/month)](https://pepy.tech/projects/parcelify)  
 A SAM2-based pipeline for instance mask refinement, merging, regularization, and vectorization.
 
-[![PyPI](https://img.shields.io/pypi/v/parcelify)](https://pypi.org/project/parcelify/)
-[![Total Downloads](https://api.pepy.tech/badge/parcelify)](https://pepy.tech/projects/parcelify)
-[![Monthly Downloads](https://api.pepy.tech/badge/parcelify/month)](https://pepy.tech/projects/parcelify)
-
-`pip install parcelify`
