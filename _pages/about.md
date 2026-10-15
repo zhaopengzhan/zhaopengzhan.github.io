@@ -54,3 +54,26 @@ Google scholar: [**Pengzhan Zhao**](https://scholar.google.com/citations?user=jw
 </div>
 
 - [Limited local classification performance but promising spatial transferability of AlphaEarth Foundations for crop mapping across thermal gradients](https://doi.org/10.1016/j.rse.2026.115694), Cao Cheng, Nanshan You, Pengzhan Zhao, Jinwei Dong, **Remote Sensing of Environment 2026**
+
+
+## 🛠️ Open Source Software
+
+### [tilekit](https://github.com/zhaopengzhan/tilekit)
+
+A Python toolkit for downloading Jilin-1 satellite imagery tiles.
+
+[![PyPI](https://img.shields.io/pypi/v/tilekit)](https://pypi.org/project/tilekit/)
+[![Total Downloads](https://api.pepy.tech/badge/tilekit)](https://pepy.tech/projects/tilekit)
+[![Monthly Downloads](https://api.pepy.tech/badge/tilekit/month)](https://pepy.tech/projects/tilekit)
+
+`pip install tilekit`
+
+### [Parcelify](https://github.com/zhaopengzhan/Parcelify)
+
+A SAM2-based pipeline for instance mask refinement, merging, regularization, and vectorization.
+
+[![PyPI](https://img.shields.io/pypi/v/parcelify)](https://pypi.org/project/parcelify/)
+[![Total Downloads](https://api.pepy.tech/badge/parcelify)](https://pepy.tech/projects/parcelify)
+[![Monthly Downloads](https://api.pepy.tech/badge/parcelify/month)](https://pepy.tech/projects/parcelify)
+
+`pip install parcelify`
